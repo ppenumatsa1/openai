@@ -1,5 +1,6 @@
 {
-    "CHATGPT_MODEL":"<ChatGPT Model Name>",
-    "OPENAI_API_BASE":"https://<Your Azure Resource Name>.openai.azure.com",
-    "OPENAI_API_VERSION":"<OpenAI API Version>"
+    "CHATGPT_MODEL":"basic-poc",
+    "OPENAI_API_BASE":"https://testai-0810.openai.azure.com/",
+    "OPENAI_API_VERSION":"2023-07-01-preview",
+    "OPENAI_API_KEY":"60cf8877804a4e75ae3066deacd4b4db"
 }
